@@ -1,7 +1,7 @@
 # HoW To Use Firebase In Flutter
 
 User need to watch the video on youtube of our flutter with firebase series and here user can get the lecture wise video.
-This repository will help those user who are new for flutter development and want to leant it.
+This repository will help those user who are new for flutter development and want to learn it.
 
 # Video lecture on Youtube
 
