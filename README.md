@@ -5,17 +5,11 @@ This repository will help those user who are new for flutter development and wan
 
 # Video lecture on Youtube
 
-watch our youtube flutter series -> https://www.youtube.com/watch?v=N3cGsQv_f88&list=PLFLkyNEX22sfiu467BzO18UnuhBdCiDnK
+watch our youtube flutter series -> https://www.youtube.com/watch?v=vyHumJ3YqIo&list=PLFLkyNEX22scGPSlfG7s9qSAQWlEjR-ic
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+This project is a starting point for a Jetpack compose and how to design ui without xml for native android application. from beginning.
+so if you are a begginer or you have some experience on android development this video lecture or code help you too get a step ahead in all term.
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
