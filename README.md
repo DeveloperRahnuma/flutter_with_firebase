@@ -9,7 +9,7 @@ watch our youtube flutter series -> https://www.youtube.com/watch?v=vyHumJ3YqIo&
 
 ## Getting Started
 
-This project is a starting point for a Jetpack compose and how to design ui without xml for native android application. from beginning.
-so if you are a begginer or you have some experience on android development this video lecture or code help you too get a step ahead in all term.
+This project is a starting point for a how to use firebase into Futter from beginning.
+so if you are a begginer or you have some experience on Flutter development this video lecture or code help you too get a step ahead in all term.
 
 
